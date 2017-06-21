@@ -2,8 +2,4 @@
   <img width="200" height="200" src="https://raw.githubusercontent.com/orangechat/website-source/master/app/images/logo.png">
 </p>
 
----
-
-## orangechat website
-
-This is the orangechat website source code. The built website can be found at https://orangechat.io.
+This is the orangechat website source code. This is a work in progress and the built website on orangechat.io is an old version. This represents the second version / redesign of the website.
