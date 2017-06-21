@@ -4,6 +4,6 @@
 
 ---
 
-# orangechat website
+## orangechat website
 
 This is the orangechat website source code. The built website can be found at https://orangechat.io.
